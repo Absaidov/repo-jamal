@@ -126,5 +126,7 @@ function mathOperation(arg1, arg2, operation) {
             return division(arg1, arg2);
     }
 
+    //сдаю домашнее задание через GitKraken
+
 
 }
